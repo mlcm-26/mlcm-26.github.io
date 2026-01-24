@@ -1,6 +1,10 @@
 # Set theme
 remote_theme: daviddarnes/alembic@main
 
+# Sass settings - suppress deprecation warnings from theme dependencies
+sass:
+  quiet_deps: true
+
 # File excludes
 exclude:
 - README.md
@@ -23,7 +27,7 @@ plugins:
 # Site settings
 url: ""
 baseurl: ""
-title: 'ML in Chemistry and Materials 2025'
+title: 'ML in Chemistry and Materials 2026'
 description: ''
 permalink: pretty
 #logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
@@ -36,15 +40,15 @@ paginate_path: blog/page:num
 navigation_header:
 - title: Home
   url: /
-- title: Registration
-  url: https://forms.gle/C1LVLLaSo47nTdAi8
+- title: Registration [coming soon]
+  url: /
 - title: Speakers
   url: /speakers
 - title: Program
   url: /program
 - title: Travel
   url: /travel 
-- title: Live Hub [codes papers]
+- title: Live Hub
   url: /livehub
 - title: Past Events
   url: /past_events

@@ -2,6 +2,8 @@
 title: Past Conferences
 ---
 
+Browse our previous conferences for program details, speaker lists, and resources from past events.
+
 <style>
 .grid-container {
     display: grid;
@@ -34,6 +36,10 @@ title: Past Conferences
 </style>
 
 <div class="grid-container">
+    <div class="grid-item" style="background-color:rgb(255, 255, 255);">
+        <a href="https://mlcm-25.github.io" style="font-size: 1em;">ML in Chemical and Materials Sciences 2025</a>
+        <img src="/assets/past_events/mlcm25-logo.png" alt="MLCM-25 Logo">
+    </div>
     <div class="grid-item" style="background-color:rgb(255, 255, 255);">
         <a href="https://mlcm-25.github.io/mlcm-24" style="font-size: 1em;">ML in Chemical and Materials Sciences 2024</a>
         <img src="/assets/past_events/mlcm24-logo.png" alt="MLCM-24 Logo">

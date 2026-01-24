@@ -2,6 +2,8 @@
 title: Codes | Links
 ---
 
-We are happy to include up to three papers, codes, or open positions related to your talk. Organizers will be updating the live hub during the presentations. However, if we happen to miss any key resources, please feel free to share the most relevant ones with us.
-
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRGApDIBMCCAkIUQVtSqgQI_UTGCPZasj1qxtnCOtb8zCrfu6qmUGEvOAsrOS90JpGJKA_0MMGBsinB/pubhtml?gid=2118230690&widget=false&chrome=false&headers=false" scrolling="yes" width="1000" height="2200" ></iframe>
+<div style="background-color: #fff3cd; border: 1px solid #ffc107; border-radius: 8px; padding: 20px; margin: 20px 0; text-align: center;">
+  <h3 style="margin-top: 0;">🚧 Coming Soon</h3>
+  <p>The Live Hub for MLCM-26 will be activated during the conference.</p>
+  <p>In the meantime, explore the <a href="https://mlcm-25.github.io/livehub">MLCM-25 Live Hub</a> for codes and resources from last year.</p>
+</div>

@@ -2,13 +2,16 @@
 title: Travel Directions
 ---
 
+<div style="background-color: #fff3cd; border: 1px solid #ffc107; border-radius: 8px; padding: 20px; margin: 20px 0; text-align: center;">
+  <h3 style="margin-top: 0;">🚧 Venue Details Coming Soon</h3>
+  <p>Venue and hotel booking information for MLCM-26 will be announced shortly.</p>
+  <p>For reference, see <a href="https://mlcm-25.github.io/travel">MLCM-25 travel information</a>.</p>
+</div>
+
 ## Venue Information
 
-**Venue:** Hotel Santa Fe, Hacienda & Spa  
-**Address:** 1501 Paseo De Peralta, Santa Fe, New Mexico, 87501, US  
-
-> 💡**IMPORTANT**   
-> The link to the booking page with special rate has expired. Please, call the Hotel Santa Fe directly (855)825-9876 and reference the conference name to check availability of rooms for MLCM-25 participants. 
+**Venue:** TBD  
+**Address:** Santa Fe, New Mexico, US 
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12963.144970608168!2d-105.95771882166181!3d35.682264999999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x871850420ac6ddeb%3A0x51d872cd9038dce7!2sHotel%20Santa%20Fe%2C%20Hacienda%20%26%20Spa!5e0!3m2!1sen!2sus!4v1737486154431!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
