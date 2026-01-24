@@ -6,3 +6,19 @@ alembic-jekyll-theme-*.gem
 Gemfile.lock
 **/Gemfile.lock
 
+# Bundle install local path
+vendor/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Local config
+.bundle/
