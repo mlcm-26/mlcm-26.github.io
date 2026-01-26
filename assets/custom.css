@@ -36,7 +36,7 @@ table th, table td {
   overflow: hidden;
 }
 
-/* Shimmer animation while banner loads */
+/* Shimmer animation - plays once on load */
 .feature::before {
   content: "";
   position: absolute;
@@ -47,17 +47,17 @@ table th, table td {
   background: linear-gradient(
     90deg,
     transparent 0%,
-    rgba(255, 255, 255, 0.15) 50%,
+    rgba(232, 168, 124, 0.5) 50%,
     transparent 100%
   );
-  animation: shimmer 2s ease-in-out infinite;
+  animation: shimmer 2.5s ease-in-out forwards;
   pointer-events: none;
   z-index: 1;
 }
 
 @keyframes shimmer {
-  0% { left: -100%; }
-  100% { left: 100%; }
+  0% { left: -100%; opacity: 1; }
+  100% { left: 100%; opacity: 0; }
 }
 
 .feature h1,
@@ -85,4 +85,51 @@ h1, h2, h3, h4, h5, h6 {
 .content a,
 .content div {
   text-shadow: none !important;
+}
+
+/* Mobile navigation improvements */
+@media (max-width: 640px) {
+  /* Full width header */
+  .header,
+  .header .container,
+  .nav--header {
+    width: 100% !important;
+    max-width: 100% !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+  
+  /* Burger button - right aligned, larger */
+  .button--nav {
+    display: block !important;
+    margin-left: auto !important;
+    margin-right: 15px !important;
+    padding: 12px !important;
+  }
+  
+  .button--nav svg {
+    width: 24px !important;
+    height: 24px !important;
+  }
+  
+  
+  /* Menu items styling with separators */
+  .list--nav {
+    text-align: left !important;
+  }
+  
+  .item--nav {
+    text-align: left !important;
+  }
+  
+  .item--nav a {
+    padding: 10px 15px !important;
+    display: block !important;
+    border-bottom: 1px solid rgba(57, 130, 117, 0.15) !important;
+    margin-right: 60px !important;
+  }
+  
+  .item--nav:last-child a {
+    border-bottom: none !important;
+  }
 }
