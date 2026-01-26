@@ -1,15 +1,14 @@
 # Set theme
 remote_theme: daviddarnes/alembic@main
 
-# Sass settings - suppress deprecation warnings from theme dependencies
-sass:
-  quiet_deps: true
-
 # File excludes
 exclude:
 - README.md
 - Gemfile
 - Gemfile.lock
+- vendor/
+- node_modules/
+- .bundle/
 
 # Set plugins
 plugins:
@@ -28,6 +27,13 @@ plugins:
 url: ""
 baseurl: ""
 title: 'ML in Chemistry and Materials 2026'
+
+# Custom fonts (Google Fonts)
+fonts:
+  preconnect_urls:
+    - https://fonts.gstatic.com
+  font_urls:
+    - https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;700&family=Merriweather:wght@400;700&display=swap
 description: ''
 permalink: pretty
 #logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
@@ -48,6 +54,8 @@ navigation_header:
   url: /program
 - title: Travel
   url: /travel 
+- title: Sponsors
+  url: /sponsors
 - title: Live Hub
   url: /livehub
 - title: Past Events

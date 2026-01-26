@@ -11,9 +11,7 @@ vendor/
 
 # OS files
 .DS_Store
-Thumbs.db
-
-# Editor files
+Thumbs.db# Editor files
 *.swp
 *.swo
 *~

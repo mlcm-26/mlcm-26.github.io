@@ -1,0 +1,62 @@
+/* Custom fonts - loaded before theme styles */
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;700&family=Merriweather:wght@400;700&display=swap");
+
+/* Global: smaller fonts and tighter line spacing for all pages */
+body {
+  font-size: 0.88rem;
+  line-height: 1.2;
+}
+
+p, li {
+  margin-bottom: 0.15em;
+  line-height: 1.2;
+}
+
+br {
+  display: block;
+  content: "";
+  margin-top: 0.3em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1.2;
+  margin-top: 1em;
+  margin-bottom: 0.4em;
+}
+
+table th, table td {
+  font-size: 0.88rem;
+}
+
+/* Banner styling */
+.feature {
+  min-height: 500px;
+  padding: 100px 0;
+}
+
+.feature h1,
+.feature h2,
+.feature p {
+  color: #fffab1 !important;
+  text-shadow: 
+    0 0 12px rgba(0, 0, 0, 1),
+    0 0 24px rgba(0, 0, 0, 0.8),
+    0 0 36px rgba(0, 0, 0, 0.6);
+}
+
+/* Page headings in primary color */
+h1, h2, h3, h4, h5, h6 {
+  color: #398275 !important;
+}
+
+/* Keep banner text light */
+.feature h1, .feature h2 {
+  color: #fffab1 !important;
+}
+
+/* Remove any text shadows from content area */
+.content p,
+.content a,
+.content div {
+  text-shadow: none !important;
+}
