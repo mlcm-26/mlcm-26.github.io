@@ -26,6 +26,8 @@
         <link rel="preconnect" href="{{ url }}" crossorigin />
       {% endfor %}
     {% endif %}
+    <link rel="preload" href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;700&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;700&display=swap"></noscript>
 
     <link rel="manifest" href="{{ "/manifest.json" | relative_url }}">
     <meta name="theme-color" content="{{ site.manifest.theme_color | default: '#242e2b' }}"/>
