@@ -26,7 +26,7 @@ plugins:
 # Site settings
 url: ""
 baseurl: ""
-title: 'ML in Chemistry and Materials 2026'
+title: 'ML in Chemistry and Materials'
 
 # Custom fonts (Google Fonts)
 fonts:
