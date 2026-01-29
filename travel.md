@@ -10,7 +10,7 @@ title: Travel Directions
 
 <div style="background-color: #E8F5E9; border: 2px solid #398275; border-radius: 8px; padding: 18px; margin: 18px 0; display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
   <div style="flex: 1 1 45%; min-width: 250px;">
-    <h3 style="margin-top: 0; color: #398275;">🏨 MLCM-26 Special Rate: $167/night</h3>
+    <h3 style="margin-top: 0; color: #398275;">MLCM-26 Special Rate: $167/night</h3>
     <p><strong>Available Dates:</strong> May 17-21, 2026</p>
     <p><a href="https://res.windsurfercrs.com/ibe/details.aspx?propertyid=14341&nights=1&checkin=5/17/2026&group=9915934&lang=en-us" style="display: inline-block; background-color: #398275; color: white; padding: 12px 24px; border-radius: 6px; text-decoration: none; font-weight: bold; margin-top: 10px;">Book at Special Rate →</a></p>
   </div>
