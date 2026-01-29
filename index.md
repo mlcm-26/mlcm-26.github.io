@@ -110,15 +110,15 @@ Machine Learning and AI are fundamentally changing how we explore chemistry and 
 Building on the success of previous MLCM events, we continue creating a space where senior experts and early-career researchers come together to share and learn, spark collaborations, and sketch brilliant ideas on the back of a napkin. 
 
 ### Topics
-• Foundation Models for Chemistry and Materials
-• GenAI for Molecular and Materials Design
-• Multi-Modal Learning and AI-enhanced Differentiable Models
-• AI-driven Exploration of Atomistic Spaces and Reactivity
-• Uncertainty Quantification and Trustworthy ML for Chemistry and Materials
-• Agentic AI for Chemical R&D
-• Autonomous Labs and Simulations
-• GPU/TPU-accelerated Computational Chemistry
-• AI/ML-driven Inverse Chemical and Materials Design
+• Foundation Models for Chemistry and Materials.  
+• GenAI for Molecular and Materials Design.  
+• Multi-Modal Learning and AI-enhanced Differentiable Models.  
+• AI-driven Exploration of Atomistic Spaces and Reactivity.  
+• Uncertainty Quantification and Trustworthy ML for Chemistry and Materials.  
+• Agentic AI for Chemical R&D.  
+• Autonomous Labs and Simulations.  
+• GPU/TPU-accelerated Computational Chemistry.  
+• AI/ML-driven Inverse Chemical and Materials Design.  
 
 ### Registration
 
