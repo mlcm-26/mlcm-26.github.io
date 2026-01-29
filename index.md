@@ -140,11 +140,11 @@ If you have any questions, please, reach out to any of the organizers below.
 <table class="org-table">
   <tr><td>Ben Nebgen</td><td>LANL T-1</td><td></td></tr>
   <tr><td>Kipton Barros</td><td>LANL T-1</td><td></td></tr>
-  <tr><td>Ying Wai Li</td><td>LANL CAI</td><td></td></tr>
+  <tr><td>Ying Wai Li</td><td>LANL CAI-1</td><td></td></tr>
   <tr><td>Ping Yang</td><td>LANL T-1</td><td></td></tr>
-  <tr><td>Enrique Batista</td><td>LANL CNLS</td><td></td></tr>
+  <tr><td>Enrique Batista</td><td>LANL T-CNLS</td><td></td></tr>
   <tr><td>Nicholas Lubbers</td><td>LANL CAI-3</td><td></td></tr>
-  <tr><td>Danny Perez</td><td>LANL T-1</td><td></td></tr>
+  <tr><td>Danny Perez</td><td>LANL XCP-AI4ND</td><td></td></tr>
   <tr><td>Sergei Tretiak</td><td>LANL T-1/CINT/CNLS</td><td></td></tr>
 </table>
 <br>
