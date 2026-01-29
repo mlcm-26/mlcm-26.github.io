@@ -1,31 +1,99 @@
 /* Custom fonts - loaded before theme styles */
 @import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;700&family=Merriweather:wght@400;700&display=swap");
 
-/* Global: smaller fonts and tighter line spacing for all pages */
+/* Global: fonts and line spacing */
+html {
+  font-size: 16px !important;
+}
+
 body {
-  font-size: 0.88rem;
-  line-height: 1.2;
+  font-size: 1rem !important;
+  line-height: 1.4 !important;
 }
 
-p, li {
-  margin-bottom: 0.15em;
-  line-height: 1.2;
+p, li,
+.content p,
+.content li,
+article p,
+article li,
+main p,
+main li {
+  margin-bottom: 0.7em !important;
+  line-height: 1.5 !important;
+  font-size: 1rem !important;
 }
 
-br {
-  display: block;
-  content: "";
-  margin-top: 0.3em;
+/* Paragraph spacing */
+p + p,
+.content p + p {
+  margin-top: 0.8em !important;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  line-height: 1.2;
-  margin-top: 1em;
-  margin-bottom: 0.4em;
+/* Preserve navigation bar font sizes */
+.nav a,
+.item--nav a,
+.list--nav a,
+.nav--header a {
+  font-size: 1rem !important;
+  line-height: 1.4 !important;
+}
+
+h1 {
+  font-size: 2.2rem !important;
+  line-height: 1.2 !important;
+  margin-top: 0.8em !important;
+  margin-bottom: 0.3em !important;
+}
+
+h2 {
+  font-size: 1.7rem !important;
+  line-height: 1.2 !important;
+  margin-top: 0.7em !important;
+  margin-bottom: 0.25em !important;
+}
+
+h3 {
+  font-size: 1.35rem !important;
+  line-height: 1.2 !important;
+  margin-top: 0.6em !important;
+  margin-bottom: 0.2em !important;
+}
+
+h4, h5, h6 {
+  font-size: 1.15rem !important;
+  line-height: 1.2 !important;
+  margin-top: 0.5em !important;
+  margin-bottom: 0.15em !important;
 }
 
 table th, table td {
-  font-size: 0.88rem;
+  font-size: 0.95rem !important;
+  padding: 3px 6px !important;
+}
+
+/* Section spacing */
+section, article, .content {
+  margin-bottom: 1em !important;
+}
+
+hr {
+  margin: 1.2em 0 !important;
+}
+
+blockquote {
+  margin: 1em 0 !important;
+  padding: 0.8em 1.2em !important;
+  font-size: 1rem !important;
+}
+
+ul, ol {
+  margin-top: 0.6em !important;
+  margin-bottom: 0.8em !important;
+}
+
+/* Heading gaps */
+h1 + *, h2 + *, h3 + *, h4 + *, h5 + *, h6 + * {
+  margin-top: 0.5em !important;
 }
 
 /* Banner styling */
@@ -68,6 +136,17 @@ table th, table td {
     0 0 12px rgba(0, 0, 0, 1),
     0 0 24px rgba(0, 0, 0, 0.8),
     0 0 36px rgba(0, 0, 0, 0.6);
+}
+
+/* Banner headers - much larger */
+.feature h1 {
+  font-size: 3rem !important;
+  line-height: 1.1 !important;
+}
+
+.feature h2 {
+  font-size: 2.4rem !important;
+  line-height: 1.15 !important;
 }
 
 /* Page headings in primary color */

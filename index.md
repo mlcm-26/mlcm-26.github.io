@@ -35,13 +35,13 @@ table th, table td { padding: 2px; font-size: 0.95rem !important; }
 </style>
 
 ### Dates and Location     
-**Registration will open soon. Stay tuned for updates!** 🧪     
+**[Registration is now open](https://forms.gle/wSe8AiYRGD9jqYc69)** 🧪     
 
 <div style="font-size: 1rem;">
     <table>
       <tr>
         <th>Dates</th>
-        <td>TBD, 2026</td>
+        <td>May 18-21, 2026</td>
       </tr>
       <tr>
         <th>Format</th>
@@ -53,15 +53,15 @@ table th, table td { padding: 2px; font-size: 0.95rem !important; }
       </tr>
       <tr>
         <th>Venue</th>
-        <td>TBD</td>
+        <td><a href="/travel">Hotel Santa Fe</a> — <a href="https://res.windsurfercrs.com/ibe/details.aspx?propertyid=14341&nights=1&checkin=5/17/2026&group=9915934&lang=en-us">Special Rate $167/night</a></td>
       </tr>
       <tr>
         <th>Fee</th>
-        <td>TBD</td>
+        <td>General - $350 | Students/Postdocs/LANL - $200</td>
       </tr>
       <tr>
         <th>Registration Deadline</th>
-        <td>TBD</td>
+        <td>March 31s 2026</td>
       </tr>
     </table>
   </div>
@@ -74,8 +74,8 @@ One [Nvidia](https://www.nvidia.com/en-us/) GPU will be awarded to the best post
 
 ### Conference Info     
 
-We are excited to announce **MLCM-26**! 🌐 
-The conference **will continue the in-person format** in the historic downtown of Santa Fe, the oldest capital in the US.  
+We are excited to announce that **MLCM-26** registrartion is open! 🌐    
+The conference will continue the immersive in-person format in the historic downtown of Santa Fe, the oldest capital in the US.  
 Check out our [past events](/past_events) for program and speaker information from previous years.   
 
 <div style="text-align: center; padding-top: 10px;">
@@ -111,18 +111,19 @@ Building on the success of previous MLCM events, we continue creating a space wh
 
 ### Topics
 • Foundation Models for Chemistry and Materials  
-• Generative AI for Molecular and Materials Design   
-• Multi-Modal Learning and AI-enhanced Differentiable Models   
-• Agentic AI for Autonomous Labs and Simulations   
-• AI-driven Exploration of Chemical Reactivity  
-• Uncertainty Quantification and Trustworthy ML for Science  
+• GenAI for Molecular and Materials Design   
+• Multi-Modal Learning and AI-enhanced Differentiable Models     
+• AI-driven Exploration of Atomistic Spaces and Reactivity    
+• Uncertainty Quantification and Trustworthy ML for Chemistry and Materials   
+• Agentic AI for Chemical R&D   
+• Autonomous Labs and Simulations    
+• GPU/TPU-accelerated Computational Chemistry   
 
 ### Registration
 
-Registration for MLCM-26 will open very soon. This is an in-person, non-profit event primarily sponsored by CNLS and LANL.  
+Registration for MLCM-26 is now open. This is an in-person, non-profit event primarily sponsored by CNLS and LANL.  
 We collect a small registration fee to cover organizational expenses.  
 Registration includes refreshments, lunches, evening networking reception and dinner.  
-Stay tuned for registration details!
 If you have any questions, please, reach out to any of the organizers below. 
 
 **Organizers**  
