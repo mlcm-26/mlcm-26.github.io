@@ -35,10 +35,13 @@ table th, table td { padding: 2px; font-size: 0.95rem !important; }
 </style>
 
 ### Dates and Location     
-**[Registration is now open](https://forms.gle/wSe8AiYRGD9jqYc69)** 🧪     
 
 <div style="font-size: 1rem;">
     <table>
+      <tr>
+        <th>Registration</th>
+        <td><strong><a href="https://forms.gle/wSe8AiYRGD9jqYc69">Now Open</a></strong> 🧪</td>
+      </tr>
       <tr>
         <th>Dates</th>
         <td>May 18-21, 2026</td>
@@ -61,7 +64,7 @@ table th, table td { padding: 2px; font-size: 0.95rem !important; }
       </tr>
       <tr>
         <th>Registration Deadline</th>
-        <td>March 31s 2026</td>
+        <td>March 31, 2026</td>
       </tr>
     </table>
   </div>
@@ -74,7 +77,7 @@ One [Nvidia](https://www.nvidia.com/en-us/) GPU will be awarded to the best post
 
 ### Conference Info     
 
-We are excited to announce that **MLCM-26** registrartion is open! 🌐    
+We are excited to announce that **MLCM-26** registration is open! 🌐    
 The conference will continue the immersive in-person format in the historic downtown of Santa Fe, the oldest capital in the US.  
 Check out our [past events](/past_events) for program and speaker information from previous years.   
 

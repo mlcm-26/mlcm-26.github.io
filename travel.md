@@ -2,7 +2,7 @@
 title: Travel Directions
 ---
 
-## Hotel Booking - Special Conference Rate
+## Hotel Booking
 
 **Venue:** [Hotel Santa Fe, Hacienda & Spa](https://www.hotelsantafe.com/)  
 **Address:** 1501 Paseo de Peralta, Santa Fe, NM 87501  
