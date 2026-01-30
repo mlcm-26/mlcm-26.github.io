@@ -5,7 +5,7 @@ feature_image: /assets/mlcm-26-banner.jpg
 feature_text: |
   # Machine Learning in Chemical and Materials Sciences 2026 [MLCM-26]
 ---
-
+ 
 <meta property="og:image" content="https://mlcm-26.github.io/assets/mlcm-26-banner.jpg" />
 <meta property="og:image:type" content="image/png" />
 <meta property="og:image:width" content="1200" />
