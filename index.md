@@ -64,7 +64,7 @@ table th, table td { padding: 2px; font-size: 0.95rem !important; }
       </tr>
       <tr>
         <th>Registration Deadline</th>
-        <td>March 31, 2026</td>
+        <td>April 15th 2026</td>
       </tr>
     </table>
   </div>
@@ -113,18 +113,19 @@ Machine Learning and AI are fundamentally changing how we explore chemistry and 
 Building on the success of previous MLCM events, we continue creating a space where senior experts and early-career researchers come together to share and learn, spark collaborations, and sketch brilliant ideas on the back of a napkin. 
 
 ### Topics
-• Foundation Models for Chemistry and Materials  
-• GenAI for Molecular and Materials Design   
-• Multi-Modal Learning and AI-enhanced Differentiable Models     
-• AI-driven Exploration of Atomistic Spaces and Reactivity    
-• Uncertainty Quantification and Trustworthy ML for Chemistry and Materials   
-• Agentic AI for Chemical R&D   
-• Autonomous Labs and Simulations    
-• GPU/TPU-accelerated Computational Chemistry   
+• Foundation Models for Chemistry and Materials.  
+• GenAI for Molecular and Materials Design.  
+• Multi-Modal Learning and AI-enhanced Differentiable Models.  
+• AI-driven Exploration of Atomistic Spaces and Reactivity.  
+• Uncertainty Quantification and Trustworthy ML for Chemistry and Materials.  
+• Agentic AI for Chemical R&D.  
+• Autonomous Labs and Simulations.  
+• GPU/TPU-accelerated Computational Chemistry.  
+• AI/ML-driven Inverse Chemical and Materials Design.  
 
 ### Registration
 
-Registration for MLCM-26 is now open. This is an in-person, non-profit event primarily sponsored by CNLS and LANL.  
+Registration for MLCM-26 is now open. This is an in-person, non-profit event primarily sponsored by CNLS and LANL.
 We collect a small registration fee to cover organizational expenses.  
 Registration includes refreshments, lunches, evening networking reception and dinner.  
 If you have any questions, please, reach out to any of the organizers below. 
