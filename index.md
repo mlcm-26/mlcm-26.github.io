@@ -40,7 +40,7 @@ table th, table td { padding: 2px; font-size: 0.95rem !important; }
     <table>
       <tr>
         <th>Registration</th>
-        <td><strong><a href="https://forms.gle/wSe8AiYRGD9jqYc69">Now Open</a></strong> 🧪</td>
+        <td><strong><a href="/registration">Now Open</a></strong> 🧪</td>
       </tr>
       <tr>
         <th>Dates</th>
