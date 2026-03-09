@@ -48,7 +48,7 @@ title: Partners
 }
 </style>
 
-### Organizers & Host
+### Hosts
 
 <div class="sponsor-grid">
   <a href="https://cnls.lanl.gov/External/" class="sponsor-tile">
