@@ -2,9 +2,34 @@
 title: Speakers
 ---
 
-<div style="background-color: #fff3cd; border: 2px solid #ffc107; border-radius: 8px; padding: 18px; margin: 18px 0; text-align: center;">
-  <h3 style="margin-top: 0;">🚧 Coming Soon</h3>
-  <p>Speaker list for MLCM-26 is under construction. Check back soon for updates!</p>
-  <p>In the meantime, view the <a href="https://mlcm-25.github.io/speakers">MLCM-25 speaker list</a> as a reference.</p>
-</div>
+## Confirmed Speakers
 
+Avanish Mishra | Los Alamos National Laboratory
+Fang Liu | Emory University
+Steven Torrisi | Toyota Research Institute
+Jeff Leiding | Los Alamos National Laboratory
+Wonseok Jeong | NIST
+Arun Mannodi-Kanakkithodi | Purdue University
+Jason Hattrick-Simpers | University of Toronto
+Michele Pavanello | Rutgers University
+David Balcells | University of Oslo
+Wanlu Li | UC San Diego
+Parisa Hosseinzadeh | University of Oregon
+Thomas Swinburne | University of Michigan
+Raphael Husistein | ETH Zurich
+Deep Choudhuri | New Mexico Tech
+Wissam Saidi | University of Pittsburgh / NETL
+Jose Mendoza | Michigan State University
+Johannes Hachmann | University at Buffalo
+Samuel Blau | Lawrence Berkeley National Laboratory
+Jan Janssen | Max-Planck-Institut fur Eisenforschung
+Daniel Levine | Meta
+Brian Decost | NIST
+Nathan Szymanski | UCLA
+Roger French | Case Western Reserve University
+John Keith | University of Pittsburgh
+Josh Rackers | Achira
+Mingjie Liu | University of Florida
+Matthew Cox | MIT
+Evan Antoniuk | Lawrence Livermore National Laboratory
+Rose Cersonsky | University of Wisconsin-Madison
