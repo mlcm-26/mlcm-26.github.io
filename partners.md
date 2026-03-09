@@ -61,7 +61,7 @@ title: Partners
   </a>
 </div>
 
-### Sponsors
+### Industry Partners
 
 <div class="sponsor-grid">
   <a href="https://www.nvidia.com/en-us/" class="sponsor-tile">
