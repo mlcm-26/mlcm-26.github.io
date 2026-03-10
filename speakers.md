@@ -173,6 +173,14 @@ title: Speakers
   </div>
   <div class="speaker-row">
     <div class="speaker-info">
+      <div class="speaker-name">Nikita Fedik</div>
+      <div class="speaker-affiliation">NVIDIA</div>
+      <div class="speaker-title">Interactive Session / Tutorial</div>
+    </div>
+    <span class="badge badge-industry">Industry</span>
+  </div>
+  <div class="speaker-row">
+    <div class="speaker-info">
       <div class="speaker-name">Roger French</div>
       <div class="speaker-affiliation">Case Western Reserve University</div>
       <div class="speaker-title">TBD</div>
