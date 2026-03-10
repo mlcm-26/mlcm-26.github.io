@@ -3,18 +3,43 @@ title: Speakers
 ---
 
 <style>
-.speaker-list {
-  max-width: 750px;
+.speaker-banner {
+  background-color: #E8F5E9;
+  border: 2px solid #398275;
+  border-radius: 8px;
+  padding: 18px;
+  margin: 18px 0;
+  text-align: center;
+}
+.speaker-banner h3 {
+  margin-top: 0;
+  color: #398275;
+}
+.speaker-banner p {
+  margin-bottom: 0;
+  color: #384743;
+}
+.speaker-count {
+  font-size: 2em;
+  font-weight: bold;
+  color: #398275;
+}
+.speaker-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0;
+  max-width: 900px;
   margin: 0 auto;
 }
 .speaker-row {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 12px 16px;
+  padding: 10px 14px;
   border-bottom: 1px solid #eee;
 }
-.speaker-row:nth-child(even) {
+.speaker-grid > .speaker-row:nth-child(4n+1),
+.speaker-grid > .speaker-row:nth-child(4n+2) {
   background-color: #f7faf9;
 }
 .speaker-info {
@@ -23,21 +48,21 @@ title: Speakers
 }
 .speaker-name {
   font-weight: bold;
-  font-size: 1.05em;
+  font-size: 0.95em;
   color: #242e2b;
 }
 .speaker-affiliation {
-  font-size: 0.88em;
+  font-size: 0.8em;
   color: #666;
-  margin-top: 2px;
+  margin-top: 1px;
 }
 .badge {
-  font-size: 0.7em;
+  font-size: 0.65em;
   font-weight: 600;
-  padding: 3px 10px;
+  padding: 2px 8px;
   border-radius: 12px;
   white-space: nowrap;
-  margin-left: 12px;
+  margin-left: 8px;
   flex-shrink: 0;
 }
 .badge-academy {
@@ -53,20 +78,36 @@ title: Speakers
   color: #b07530;
 }
 @media (max-width: 640px) {
+  .speaker-grid {
+    grid-template-columns: 1fr;
+  }
   .speaker-row {
     flex-wrap: wrap;
     padding: 10px 12px;
   }
+  .speaker-grid > .speaker-row:nth-child(4n+1),
+  .speaker-grid > .speaker-row:nth-child(4n+2) {
+    background-color: transparent;
+  }
+  .speaker-grid > .speaker-row:nth-child(even) {
+    background-color: #f7faf9;
+  }
   .badge {
     margin-left: 0;
-    margin-top: 6px;
+    margin-top: 4px;
   }
 }
 </style>
 
+<div class="speaker-banner">
+  <h3>Schedule in Progress</h3>
+  <p>We are actively building the MLCM-26 program. More speakers will be announced soon!</p>
+  <p style="margin-top: 10px;"><span class="speaker-count">29</span><br>confirmed speakers so far</p>
+</div>
+
 ## Confirmed Speakers
 
-<div class="speaker-list">
+<div class="speaker-grid">
   <div class="speaker-row">
     <div class="speaker-info">
       <div class="speaker-name">Evan Antoniuk</div>
