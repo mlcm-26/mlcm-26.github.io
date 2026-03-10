@@ -109,7 +109,7 @@ title: Speakers
 <div class="speaker-banner">
   <h3>Schedule in Progress</h3>
   <p>We are actively building the MLCM-26 program. More speakers will be announced soon!</p>
-  <p style="margin-top: 10px;"><span class="speaker-count">29</span><br>confirmed speakers so far</p>
+  <p style="margin-top: 10px;"><span class="speaker-count">30</span><br>confirmed speakers so far</p>
 </div>
 
 ## Confirmed Speakers
