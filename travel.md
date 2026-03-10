@@ -20,7 +20,8 @@ title: Travel Directions
 </div>
 
 <div style="background-color: #fff3cd; border: 2px solid #ffc107; border-radius: 8px; padding: 18px; margin: 18px 0;">
-  <strong>⚠️ Note:</strong> May 22 begins Memorial Day weekend — hotel rates are expected to increase significantly after that date. We recommend booking early.
+  <strong>⚠️ Book by April 17, 2026</strong> to secure the special group rate of $167/night. After this date, rooms will be released and the discounted rate is no longer guaranteed.<br><br>
+  <strong>Note:</strong> May 22 begins Memorial Day weekend — hotel rates are expected to increase significantly after that date. We recommend booking early.
 </div>
 
 ---
