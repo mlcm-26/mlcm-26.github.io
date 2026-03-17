@@ -317,6 +317,14 @@ title: Speakers
   </div>
   <div class="speaker-row">
     <div class="speaker-info">
+      <div class="speaker-name">Matous Mrovec</div>
+      <div class="speaker-affiliation">Ruhr-Universität Bochum</div>
+      <div class="speaker-title">TBD</div>
+    </div>
+    <span class="badge badge-academy">Academy</span>
+  </div>
+  <div class="speaker-row">
+    <div class="speaker-info">
       <div class="speaker-name">Michele Pavanello</div>
       <div class="speaker-affiliation">Rutgers University</div>
       <div class="speaker-title">TBD</div>
