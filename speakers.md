@@ -229,6 +229,14 @@ title: Speakers
   </div>
   <div class="speaker-row">
     <div class="speaker-info">
+      <div class="speaker-name">Yoichiro Kawami</div>
+      <div class="speaker-affiliation">ENEOS</div>
+      <div class="speaker-title">TBD</div>
+    </div>
+    <span class="badge badge-industry">Industry</span>
+  </div>
+  <div class="speaker-row">
+    <div class="speaker-info">
       <div class="speaker-name">Wonseok Jeong</div>
       <div class="speaker-affiliation">NIST</div>
       <div class="speaker-title">TBD</div>
