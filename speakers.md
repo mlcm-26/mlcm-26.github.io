@@ -379,4 +379,12 @@ title: Speakers
     </div>
     <span class="badge badge-industry">Industry</span>
   </div>
+  <div class="speaker-row">
+    <div class="speaker-info">
+      <div class="speaker-name">Jack Weber</div>
+      <div class="speaker-affiliation">Schrödinger</div>
+      <div class="speaker-title">TBD</div>
+    </div>
+    <span class="badge badge-industry">Industry</span>
+  </div>
 </div>
