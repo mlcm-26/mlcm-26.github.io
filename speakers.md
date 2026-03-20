@@ -253,14 +253,6 @@ title: Speakers
   </div>
   <div class="speaker-row">
     <div class="speaker-info">
-      <div class="speaker-name">Jeff Leiding</div>
-      <div class="speaker-affiliation">Los Alamos National Laboratory</div>
-      <div class="speaker-title">TBD</div>
-    </div>
-    <span class="badge badge-government">Government</span>
-  </div>
-  <div class="speaker-row">
-    <div class="speaker-info">
       <div class="speaker-name">Daniel Levine</div>
       <div class="speaker-affiliation">Meta</div>
       <div class="speaker-title">TBD</div>
