@@ -271,7 +271,7 @@ title: Speakers
     <div class="speaker-info">
       <div class="speaker-name">Daniel Levine</div>
       <div class="speaker-affiliation">Meta</div>
-      <div class="speaker-title">TBD</div>
+      <div class="speaker-title">Replacing DFT across the periodic table with machine-learning interatomic potentials</div>
     </div>
     <span class="badge badge-industry">Industry</span>
   </div>
