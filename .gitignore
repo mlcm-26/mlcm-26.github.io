@@ -21,5 +21,6 @@ Thumbs.db# Editor files
 # Local config
 .bundle/
 
-# Email databases
+# Email databases and registration data
 email_database*
+registration-form*
