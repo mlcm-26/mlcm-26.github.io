@@ -125,6 +125,14 @@ title: Speakers
   </div>
   <div class="speaker-row">
     <div class="speaker-info">
+      <div class="speaker-name">Nestor Aguirre</div>
+      <div class="speaker-affiliation">SCM</div>
+      <div class="speaker-title">TBD</div>
+    </div>
+    <span class="badge badge-industry">Industry</span>
+  </div>
+  <div class="speaker-row">
+    <div class="speaker-info">
       <div class="speaker-name">David Balcells</div>
       <div class="speaker-affiliation">University of Oslo</div>
       <div class="speaker-title">TBD</div>
