@@ -239,7 +239,7 @@ title: Speakers
     <div class="speaker-info">
       <div class="speaker-name">Yoichiro Kawami</div>
       <div class="speaker-affiliation">ENEOS</div>
-      <div class="speaker-title">TBD</div>
+      <div class="speaker-title">AI-accelerated Materials Discovery: High-throughput Virtual Screening of Novel Materials with NVIDIA ALCHEMI</div>
     </div>
     <span class="badge badge-industry">Industry</span>
   </div>
