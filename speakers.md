@@ -253,6 +253,14 @@ title: Speakers
   </div>
   <div class="speaker-row">
     <div class="speaker-info">
+      <div class="speaker-name">Aditi Krishnapriyan</div>
+      <div class="speaker-affiliation">UC Berkeley</div>
+      <div class="speaker-title">TBD</div>
+    </div>
+    <span class="badge badge-academy">Academy</span>
+  </div>
+  <div class="speaker-row">
+    <div class="speaker-info">
       <div class="speaker-name">Daniel Levine</div>
       <div class="speaker-affiliation">Meta</div>
       <div class="speaker-title">TBD</div>
