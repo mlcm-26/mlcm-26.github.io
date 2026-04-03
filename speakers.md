@@ -287,7 +287,7 @@ title: Speakers
     <div class="speaker-info">
       <div class="speaker-name">Fang Liu</div>
       <div class="speaker-affiliation">Emory University</div>
-      <div class="speaker-title">TBD</div>
+      <div class="speaker-title">A multi-agent system for autonomous training of machine-learned exciton models</div>
     </div>
     <span class="badge badge-academy">Academy</span>
   </div>
