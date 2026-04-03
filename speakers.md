@@ -247,7 +247,7 @@ title: Speakers
     <div class="speaker-info">
       <div class="speaker-name">Wonseok Jeong</div>
       <div class="speaker-affiliation">NIST</div>
-      <div class="speaker-title">TBD</div>
+      <div class="speaker-title">Bridging Atomic Simulations and Experimental Time Scales via Deep Reinforcement Learning</div>
     </div>
     <span class="badge badge-government">Government</span>
   </div>
