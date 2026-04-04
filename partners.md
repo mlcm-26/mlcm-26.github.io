@@ -1,5 +1,5 @@
 ---
-title: Partners
+title: Partners and Awards
 ---
 
 <style>
