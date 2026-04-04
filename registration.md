@@ -29,4 +29,8 @@ After completing the registration form, proceed to payment to finalize your regi
 
 **Registration includes:** Refreshments, lunches, evening networking reception, and dinner.
 
+<div style="background-color: #fff3cd; border: 2px solid #ffc107; border-radius: 8px; padding: 18px; margin: 18px 0;">
+  <strong>Poster Awards:</strong> Presenting a poster? Compete for an <strong>NVIDIA GPU</strong> and <strong>SCM cash prizes</strong>. See <a href="/partners#poster-session-awards">awards details</a> on the Partners page.
+</div>
+
 **Questions?** Contact the organizers at **mgt16@lanl.gov**
