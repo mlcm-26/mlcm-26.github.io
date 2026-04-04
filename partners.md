@@ -76,6 +76,20 @@ title: Partners
 
 ---
 
+### Poster Session Awards
+
+<div style="background-color: #fdf0e6; border: 2px solid #b07530; border-radius: 8px; padding: 18px; margin: 18px 0;">
+  <h4 style="margin-top: 0; color: #b07530;">NVIDIA GPU Award</h4>
+  <p>One <a href="https://www.nvidia.com/en-us/">NVIDIA</a> GPU will be awarded to the best poster demonstrating innovative research that leverages NVIDIA capabilities for advanced GPU computations. This premium hardware prize recognizes exceptional contributions to GPU-enabled computational research.</p>
+</div>
+
+<div style="background-color: #e3edf7; border: 2px solid #2c5f8a; border-radius: 8px; padding: 18px; margin: 18px 0;">
+  <h4 style="margin-top: 0; color: #2c5f8a;">SCM Research Excellence Awards</h4>
+  <p>Two cash prizes will be presented by <a href="https://www.scm.com">SCM</a> to recognize outstanding posters in any research domain aligned with the conference themes. These awards are open to all poster presenters except the recipient of the NVIDIA GPU award.</p>
+</div>
+
+---
+
 ### Become a Sponsor
 
 Interested in sponsoring MLCM-26? Contact us at **mgt16@lanl.gov** for partnership opportunities.
