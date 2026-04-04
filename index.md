@@ -91,7 +91,7 @@ Check out our [past events](/past_events) for program and speaker information fr
     <div class="grid-item" style="background-color: #FFEBEE;">
      <div style="font-size: 2em; margin-bottom: 8px; margin-top: 8px;">🚀</div>
      <b>Career Launchpad</b>
-     <p>Speakers share openings. Job board for all. Top posters present as Rising Stars.</p>
+     <p>Speakers share openings. Job board for all. Top posters present as Rising Stars. <a href="/partners#poster-session-awards">Poster awards</a> from NVIDIA and SCM.</p>
     </div>
     <div class="grid-item" style="background-color: #FFF3E0;">
      <div style="font-size: 2em; margin-bottom: 8px; margin-top: 8px;">🌵</div>
