@@ -69,11 +69,6 @@ table th, table td { padding: 2px; font-size: 0.95rem !important; }
     </table>
   </div>
    
-<!-- Award info section - to be updated with more details from manager
-## Poster Session Awards
-**Nvidia GPU Award**     
-One [Nvidia](https://www.nvidia.com/en-us/) GPU will be awarded to the best poster demonstrating innovative research that leverages NVIDIA capabilities for advanced GPU computations. This premium hardware prize recognizes exceptional contributions to GPU-enabled computational research.
--->
 
 ### Conference Info     
 
