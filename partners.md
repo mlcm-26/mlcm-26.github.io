@@ -61,31 +61,22 @@ title: Partners
   </a>
 </div>
 
-### Industry Partners
+### Industry Partners & Poster Awards
 
-<div class="sponsor-grid">
-  <a href="https://www.nvidia.com/en-us/" class="sponsor-tile">
-    <img src="/assets/NVIDIA-logo-white-16x9.png" alt="NVIDIA">
-    <span class="name">NVIDIA</span>
-  </a>
-  <a href="https://www.scm.com" class="sponsor-tile">
-    <img src="/assets/scm_logo.jpg" alt="SCM">
-    <span class="name">SCM</span>
-  </a>
+<div style="border: 2px solid #ddd; border-radius: 12px; padding: 20px; margin: 18px 0;">
+  <div style="display: flex; align-items: center; gap: 16px; margin-bottom: 10px;">
+    <a href="https://www.nvidia.com/en-us/"><img src="/assets/NVIDIA-logo-white-16x9.png" alt="NVIDIA" style="height: 40px; object-fit: contain;"></a>
+    <h4 style="margin: 0; color: #b07530;">NVIDIA GPU Award</h4>
+  </div>
+  <p style="margin: 0; font-size: 0.92em;">One NVIDIA GPU will be awarded to the best poster demonstrating innovative research that leverages NVIDIA capabilities for advanced GPU computations. This premium hardware prize recognizes exceptional contributions to GPU-enabled computational research.</p>
 </div>
 
----
-
-### Poster Session Awards
-
-<div style="background-color: #fdf0e6; border: 2px solid #b07530; border-radius: 8px; padding: 18px; margin: 18px 0;">
-  <h4 style="margin-top: 0; color: #b07530;">NVIDIA GPU Award</h4>
-  <p>One <a href="https://www.nvidia.com/en-us/">NVIDIA</a> GPU will be awarded to the best poster demonstrating innovative research that leverages NVIDIA capabilities for advanced GPU computations. This premium hardware prize recognizes exceptional contributions to GPU-enabled computational research.</p>
-</div>
-
-<div style="background-color: #e3edf7; border: 2px solid #2c5f8a; border-radius: 8px; padding: 18px; margin: 18px 0;">
-  <h4 style="margin-top: 0; color: #2c5f8a;">SCM Research Excellence Awards</h4>
-  <p>Two cash prizes will be presented by <a href="https://www.scm.com">SCM</a> to recognize outstanding posters in any research domain aligned with the conference themes. These awards are open to all poster presenters except the recipient of the NVIDIA GPU award.</p>
+<div style="border: 2px solid #ddd; border-radius: 12px; padding: 20px; margin: 18px 0;">
+  <div style="display: flex; align-items: center; gap: 16px; margin-bottom: 10px;">
+    <a href="https://www.scm.com"><img src="/assets/scm_logo.jpg" alt="SCM" style="height: 40px; object-fit: contain;"></a>
+    <h4 style="margin: 0; color: #2c5f8a;">SCM Research Excellence Awards</h4>
+  </div>
+  <p style="margin: 0; font-size: 0.92em;">Two cash prizes will be presented by SCM to recognize outstanding posters in any research domain aligned with the conference themes. These awards are open to all poster presenters except the recipient of the NVIDIA GPU award.</p>
 </div>
 
 ---
