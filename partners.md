@@ -68,12 +68,10 @@ title: Partners
     <img src="/assets/NVIDIA-logo-white-16x9.png" alt="NVIDIA">
     <span class="name">NVIDIA</span>
   </a>
-  <!-- More industry partners to be added
   <a href="https://www.scm.com" class="sponsor-tile">
     <img src="/assets/scm_logo.jpg" alt="SCM">
     <span class="name">SCM</span>
   </a>
-  -->
 </div>
 
 ---
