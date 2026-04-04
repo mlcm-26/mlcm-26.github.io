@@ -61,7 +61,7 @@ title: Partners
   </a>
 </div>
 
-### Industry Partners & Poster Awards
+### Partners and Awards
 
 <div style="border: 2px solid #ddd; border-radius: 12px; padding: 20px; margin: 18px 0;">
   <div style="display: flex; align-items: center; gap: 16px; margin-bottom: 10px;">
