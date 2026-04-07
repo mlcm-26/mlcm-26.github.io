@@ -261,6 +261,22 @@ title: Speakers
   </div>
   <div class="speaker-row">
     <div class="speaker-info">
+      <div class="speaker-name">Maya Martirossyan</div>
+      <div class="speaker-affiliation">Lila Sciences</div>
+      <div class="speaker-title">TBD</div>
+    </div>
+    <span class="badge badge-industry">Industry</span>
+  </div>
+  <div class="speaker-row">
+    <div class="speaker-info">
+      <div class="speaker-name">Megan Davis</div>
+      <div class="speaker-affiliation">Los Alamos National Laboratory</div>
+      <div class="speaker-title">TBD</div>
+    </div>
+    <span class="badge badge-government">Government</span>
+  </div>
+  <div class="speaker-row">
+    <div class="speaker-info">
       <div class="speaker-name">Aditi Krishnapriyan</div>
       <div class="speaker-affiliation">UC Berkeley</div>
       <div class="speaker-title">TBD</div>
