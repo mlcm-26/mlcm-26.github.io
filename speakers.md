@@ -109,7 +109,7 @@ title: Speakers
 <div class="speaker-banner">
   <h3>Schedule in Progress</h3>
   <p>We are actively building the MLCM-26 program. More speakers will be announced soon!</p>
-  <p style="margin-top: 10px;"><span class="speaker-count">35</span><br>confirmed speakers so far</p>
+  <p style="margin-top: 10px;"><span class="speaker-count">34</span><br>confirmed speakers so far</p>
 </div>
 
 ## Confirmed Speakers
@@ -133,14 +133,6 @@ title: Speakers
   </div>
   <div class="speaker-row">
     <div class="speaker-info">
-      <div class="speaker-name">David Balcells</div>
-      <div class="speaker-affiliation">University of Oslo</div>
-      <div class="speaker-title">TBD</div>
-    </div>
-    <span class="badge badge-academy">Academy</span>
-  </div>
-  <div class="speaker-row">
-    <div class="speaker-info">
       <div class="speaker-name">Samuel Blau</div>
       <div class="speaker-affiliation">Lawrence Berkeley National Laboratory</div>
       <div class="speaker-title">TBD</div>
@@ -157,19 +149,19 @@ title: Speakers
   </div>
   <div class="speaker-row">
     <div class="speaker-info">
-      <div class="speaker-name">Deep Choudhuri</div>
-      <div class="speaker-affiliation">New Mexico Tech</div>
-      <div class="speaker-title">TBD</div>
-    </div>
-    <span class="badge badge-academy">Academy</span>
-  </div>
-  <div class="speaker-row">
-    <div class="speaker-info">
       <div class="speaker-name">Matthew Cox</div>
       <div class="speaker-affiliation">Massachusetts Institute of Technology</div>
       <div class="speaker-title">Post-Training Alignment of Scientific Agents Through Composable Workflows</div>
     </div>
     <span class="badge badge-academy">Academy</span>
+  </div>
+  <div class="speaker-row">
+    <div class="speaker-info">
+      <div class="speaker-name">Megan Davis</div>
+      <div class="speaker-affiliation">Los Alamos National Laboratory</div>
+      <div class="speaker-title">TBD</div>
+    </div>
+    <span class="badge badge-government">Government</span>
   </div>
   <div class="speaker-row">
     <div class="speaker-info">
@@ -213,14 +205,6 @@ title: Speakers
   </div>
   <div class="speaker-row">
     <div class="speaker-info">
-      <div class="speaker-name">Parisa Hosseinzadeh</div>
-      <div class="speaker-affiliation">University of Oregon</div>
-      <div class="speaker-title">TBD</div>
-    </div>
-    <span class="badge badge-academy">Academy</span>
-  </div>
-  <div class="speaker-row">
-    <div class="speaker-info">
       <div class="speaker-name">Raphael Husistein</div>
       <div class="speaker-affiliation">ETH Zürich</div>
       <div class="speaker-title">TBD</div>
@@ -237,9 +221,9 @@ title: Speakers
   </div>
   <div class="speaker-row">
     <div class="speaker-info">
-      <div class="speaker-name">Yoichiro Kawami</div>
+      <div class="speaker-name">Hiroyuki Tsujimoto</div>
       <div class="speaker-affiliation">ENEOS</div>
-      <div class="speaker-title">AI-accelerated Materials Discovery: High-throughput Virtual Screening of Novel Materials with NVIDIA ALCHEMI</div>
+      <div class="speaker-title">From Atomistic Understanding toward High-Throughput Discovery: ENEOS's Journey with Matlantis and NVIDIA ALCHEMI</div>
     </div>
     <span class="badge badge-industry">Industry</span>
   </div>
@@ -293,25 +277,9 @@ title: Speakers
   </div>
   <div class="speaker-row">
     <div class="speaker-info">
-      <div class="speaker-name">Wanlu Li</div>
-      <div class="speaker-affiliation">UC San Diego</div>
-      <div class="speaker-title">TBD</div>
-    </div>
-    <span class="badge badge-academy">Academy</span>
-  </div>
-  <div class="speaker-row">
-    <div class="speaker-info">
       <div class="speaker-name">Fang Liu</div>
       <div class="speaker-affiliation">Emory University</div>
       <div class="speaker-title">A multi-agent system for autonomous training of machine-learned exciton models</div>
-    </div>
-    <span class="badge badge-academy">Academy</span>
-  </div>
-  <div class="speaker-row">
-    <div class="speaker-info">
-      <div class="speaker-name">Mingjie Liu</div>
-      <div class="speaker-affiliation">University of Florida</div>
-      <div class="speaker-title">TBD</div>
     </div>
     <span class="badge badge-academy">Academy</span>
   </div>
@@ -322,6 +290,22 @@ title: Speakers
       <div class="speaker-title">Defect Engineering in Semiconductors using First Principles Simulations and Machine Learning</div>
     </div>
     <span class="badge badge-academy">Academy</span>
+  </div>
+  <div class="speaker-row">
+    <div class="speaker-info">
+      <div class="speaker-name">Maya Martirossyan</div>
+      <div class="speaker-affiliation">Lila Sciences</div>
+      <div class="speaker-title">TBD</div>
+    </div>
+    <span class="badge badge-industry">Industry</span>
+  </div>
+  <div class="speaker-row">
+    <div class="speaker-info">
+      <div class="speaker-name">Sakib Matin</div>
+      <div class="speaker-affiliation">Lawrence Berkeley National Laboratory</div>
+      <div class="speaker-title">TBD</div>
+    </div>
+    <span class="badge badge-government">Government</span>
   </div>
   <div class="speaker-row">
     <div class="speaker-info">
@@ -362,6 +346,14 @@ title: Speakers
       <div class="speaker-title">TBD</div>
     </div>
     <span class="badge badge-government">Government</span>
+  </div>
+  <div class="speaker-row">
+    <div class="speaker-info">
+      <div class="speaker-name">Owen Price Skelly</div>
+      <div class="speaker-affiliation">Globulus Labs / University of Chicago</div>
+      <div class="speaker-title">TBD</div>
+    </div>
+    <span class="badge badge-academy">Academy</span>
   </div>
   <div class="speaker-row">
     <div class="speaker-info">
