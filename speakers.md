@@ -301,14 +301,6 @@ title: Speakers
   </div>
   <div class="speaker-row">
     <div class="speaker-info">
-      <div class="speaker-name">Maya Martirossyan</div>
-      <div class="speaker-affiliation">Lila Sciences</div>
-      <div class="speaker-title">TBD</div>
-    </div>
-    <span class="badge badge-industry">Industry</span>
-  </div>
-  <div class="speaker-row">
-    <div class="speaker-info">
       <div class="speaker-name">Sakib Matin</div>
       <div class="speaker-affiliation">Lawrence Berkeley National Laboratory</div>
       <div class="speaker-title">TBD</div>
@@ -376,14 +368,6 @@ title: Speakers
       <div class="speaker-name">Patrick Sahrmann</div>
       <div class="speaker-affiliation">Los Alamos National Laboratory</div>
       <div class="speaker-title">Transferable Machine-Learned Coarse-Grained Interaction Potentials via a Thermodynamic Force-Matching Principle</div>
-    </div>
-    <span class="badge badge-government">Government</span>
-  </div>
-  <div class="speaker-row">
-    <div class="speaker-info">
-      <div class="speaker-name">Wissam Saidi</div>
-      <div class="speaker-affiliation">University of Pittsburgh / NETL</div>
-      <div class="speaker-title">TBD</div>
     </div>
     <span class="badge badge-government">Government</span>
   </div>
