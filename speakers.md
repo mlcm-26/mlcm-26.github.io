@@ -109,7 +109,7 @@ title: Speakers
 <div class="speaker-banner">
   <h3>Schedule in Progress</h3>
   <p>We are actively building the MLCM-26 program. More speakers will be announced soon!</p>
-  <p style="margin-top: 10px;"><span class="speaker-count">34</span><br>confirmed speakers so far</p>
+  <p style="margin-top: 10px;"><span class="speaker-count">36</span><br>confirmed speakers so far</p>
 </div>
 
 ## Confirmed Speakers
@@ -165,9 +165,9 @@ title: Speakers
   </div>
   <div class="speaker-row">
     <div class="speaker-info">
-      <div class="speaker-name">Brian Decost</div>
+      <div class="speaker-name">Brian DeCost</div>
       <div class="speaker-affiliation">NIST</div>
-      <div class="speaker-title">TBD</div>
+      <div class="speaker-title">Tools for Automating High Throughput Analysis of Multiphase Powder X-ray Diffraction Data</div>
     </div>
     <span class="badge badge-government">Government</span>
   </div>
@@ -269,6 +269,14 @@ title: Speakers
   </div>
   <div class="speaker-row">
     <div class="speaker-info">
+      <div class="speaker-name">Jeffrey Law</div>
+      <div class="speaker-affiliation">National Laboratory of the Rockies</div>
+      <div class="speaker-title">Polymer Property Prediction via Automated Molecular Dynamics Pipeline and Transfer Learning</div>
+    </div>
+    <span class="badge badge-government">Government</span>
+  </div>
+  <div class="speaker-row">
+    <div class="speaker-info">
       <div class="speaker-name">Daniel Levine</div>
       <div class="speaker-affiliation">Meta</div>
       <div class="speaker-title">Replacing DFT across the periodic table with machine-learning interatomic potentials</div>
@@ -362,6 +370,14 @@ title: Speakers
       <div class="speaker-title">TBD</div>
     </div>
     <span class="badge badge-industry">Industry</span>
+  </div>
+  <div class="speaker-row">
+    <div class="speaker-info">
+      <div class="speaker-name">Patrick Sahrmann</div>
+      <div class="speaker-affiliation">Los Alamos National Laboratory</div>
+      <div class="speaker-title">Transferable Machine-Learned Coarse-Grained Interaction Potentials via a Thermodynamic Force-Matching Principle</div>
+    </div>
+    <span class="badge badge-government">Government</span>
   </div>
   <div class="speaker-row">
     <div class="speaker-info">
