@@ -64,7 +64,7 @@ table th, table td { padding: 2px; font-size: 0.95rem !important; }
       </tr>
       <tr>
         <th>Registration Deadline</th>
-        <td>April 15th 2026</td>
+        <td>April 29th 2026 (extended)</td>
       </tr>
     </table>
   </div>
