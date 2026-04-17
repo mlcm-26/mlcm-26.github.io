@@ -109,7 +109,7 @@ title: Speakers
 <div class="speaker-banner">
   <h3>Schedule in Progress</h3>
   <p>We are actively building the MLCM-26 program. More speakers will be announced soon!</p>
-  <p style="margin-top: 10px;"><span class="speaker-count">36</span><br>confirmed speakers so far</p>
+  <p style="margin-top: 10px;"><span class="speaker-count">35</span><br>confirmed speakers so far</p>
 </div>
 
 ## Confirmed Speakers
@@ -250,14 +250,6 @@ title: Speakers
       <div class="speaker-title">TBD</div>
     </div>
     <span class="badge badge-industry">Industry</span>
-  </div>
-  <div class="speaker-row">
-    <div class="speaker-info">
-      <div class="speaker-name">Megan Davis</div>
-      <div class="speaker-affiliation">Los Alamos National Laboratory</div>
-      <div class="speaker-title">TBD</div>
-    </div>
-    <span class="badge badge-government">Government</span>
   </div>
   <div class="speaker-row">
     <div class="speaker-info">
