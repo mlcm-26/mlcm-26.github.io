@@ -183,7 +183,7 @@ title: Speakers
     <div class="speaker-info">
       <div class="speaker-name">Nikita Fedik</div>
       <div class="speaker-affiliation">NVIDIA</div>
-      <div class="speaker-title">Interactive Session / Tutorial</div>
+      <div class="speaker-title">Interactive Session / Tutorial — <a href="https://forms.gle/sBnr3bqzdVKoxo6A6">sign up</a></div>
     </div>
     <span class="badge badge-industry">Industry</span>
   </div>

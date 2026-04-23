@@ -25,6 +25,12 @@ After completing the registration form, proceed to payment to finalize your regi
   <p><a href="https://web.cvent.com/event/e00c5a63-9f81-4314-934c-7fed70b55d6b/summary" style="display: inline-block; background-color: #398275; color: white; padding: 12px 24px; border-radius: 6px; text-decoration: none; font-weight: bold;">Pay via Cvent →</a></p>
 </div>
 
+<div style="background-color: #E8F5E9; border: 2px solid #398275; border-radius: 8px; padding: 18px; margin: 18px 0; text-align: center;">
+  <h3 style="margin-top: 0; color: #398275;">🧪 ALCHEMI Tutorial Sign-Up</h3>
+  <p>Separate sign-up required for the hands-on NVIDIA ALCHEMI tutorial</p>
+  <p><a href="https://forms.gle/sBnr3bqzdVKoxo6A6" style="display: inline-block; background-color: #398275; color: white; padding: 12px 24px; border-radius: 6px; text-decoration: none; font-weight: bold;">Sign Up for Tutorial →</a></p>
+</div>
+
 ---
 
 **Registration includes:** Refreshments, lunches, evening networking reception, and dinner.
