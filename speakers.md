@@ -109,7 +109,7 @@ title: Speakers
 <div class="speaker-banner">
   <h3>Schedule in Progress</h3>
   <p>We are actively building the MLCM-26 program. More speakers will be announced soon!</p>
-  <p style="margin-top: 10px;"><span class="speaker-count">35</span><br>confirmed speakers so far</p>
+  <p style="margin-top: 10px;"><span class="speaker-count">38</span><br>confirmed speakers so far</p>
 </div>
 
 ## Confirmed Speakers
@@ -125,11 +125,11 @@ title: Speakers
   </div>
   <div class="speaker-row">
     <div class="speaker-info">
-      <div class="speaker-name">Nestor Aguirre</div>
-      <div class="speaker-affiliation">SCM</div>
+      <div class="speaker-name">Masha Babak</div>
+      <div class="speaker-affiliation">City University of Hong Kong</div>
       <div class="speaker-title">TBD</div>
     </div>
-    <span class="badge badge-industry">Industry</span>
+    <span class="badge badge-academy">Academy</span>
   </div>
   <div class="speaker-row">
     <div class="speaker-info">
@@ -138,6 +138,14 @@ title: Speakers
       <div class="speaker-title">TBD</div>
     </div>
     <span class="badge badge-government">Government</span>
+  </div>
+  <div class="speaker-row">
+    <div class="speaker-info">
+      <div class="speaker-name">Laura Bruckman</div>
+      <div class="speaker-affiliation">Case Western Reserve University</div>
+      <div class="speaker-title">TBD</div>
+    </div>
+    <span class="badge badge-academy">Academy</span>
   </div>
   <div class="speaker-row">
     <div class="speaker-info">
@@ -178,6 +186,14 @@ title: Speakers
       <div class="speaker-title">Interactive Session / Tutorial</div>
     </div>
     <span class="badge badge-industry">Industry</span>
+  </div>
+  <div class="speaker-row">
+    <div class="speaker-info">
+      <div class="speaker-name">Josh Finkelstein</div>
+      <div class="speaker-affiliation">Los Alamos National Laboratory</div>
+      <div class="speaker-title">TBD</div>
+    </div>
+    <span class="badge badge-government">Government</span>
   </div>
   <div class="speaker-row">
     <div class="speaker-info">
@@ -234,6 +250,14 @@ title: Speakers
       <div class="speaker-title">Bridging Atomic Simulations and Experimental Time Scales via Deep Reinforcement Learning</div>
     </div>
     <span class="badge badge-government">Government</span>
+  </div>
+  <div class="speaker-row">
+    <div class="speaker-info">
+      <div class="speaker-name">Neerav Kaushal</div>
+      <div class="speaker-affiliation">Michigan Technological University</div>
+      <div class="speaker-title">TBD</div>
+    </div>
+    <span class="badge badge-academy">Academy</span>
   </div>
   <div class="speaker-row">
     <div class="speaker-info">
