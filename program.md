@@ -12,7 +12,7 @@ title: Program
 ## Conference Schedule
 
 <div style="position: relative; width: 100vw; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; margin-top: 18px; margin-bottom: 18px;">
-  <div style="max-width: 1050px; margin: 0 auto; overflow: hidden; height: 2380px; padding: 0 16px; box-sizing: border-box;">
+  <div style="max-width: 1100px; margin: 0 auto; overflow: hidden; height: 2380px; padding: 0 16px; box-sizing: border-box;">
     <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSQgBlsUK57WO6wQYkPTtyJVWYldNLRapmwOphY3Uy5KRefNNiODPXJVzeHo_V7V1wN2EJ2kTmfnJFQ/pubhtml?gid=2032695539&amp;single=true&amp;widget=true&amp;headers=false&amp;chrome=false&amp;range=A1:E" width="100%" height="2450" frameborder="0" style="display: block; border: 0 !important; outline: none; margin-top: -40px; margin-left: -18px;" scrolling="no"></iframe>
   </div>
 </div>
