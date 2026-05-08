@@ -135,7 +135,7 @@ title: Speakers
     <div class="speaker-info">
       <div class="speaker-name">Sai Harshit Balantrapu</div>
       <div class="speaker-affiliation">University at Buffalo - SUNY</div>
-      <div class="speaker-title">⭐ Rising Star — Neutron and X-ray Diffraction Reveal the Limits of Long-Range Machine Learning Potentials for Medium-Range Order in Silica</div>
+      <div class="speaker-title">Neutron and X-ray Diffraction Reveal the Limits of Long-Range Machine Learning Potentials for Medium-Range Order in Silica</div>
     </div>
     <span class="badge badge-academy">Academy</span>
   </div>
@@ -327,7 +327,7 @@ title: Speakers
     <div class="speaker-info">
       <div class="speaker-name">Orlando Mendible Barreto</div>
       <div class="speaker-affiliation">University of Notre Dame</div>
-      <div class="speaker-title">⭐ Rising Star — MLIPs and Agentic AI as Enabling Tools for the Computational Study of Metal-Organic Framework Self-Assembly</div>
+      <div class="speaker-title">MLIPs and Agentic AI as Enabling Tools for the Computational Study of Metal-Organic Framework Self-Assembly</div>
     </div>
     <span class="badge badge-academy">Academy</span>
   </div>
@@ -367,7 +367,7 @@ title: Speakers
     <div class="speaker-info">
       <div class="speaker-name">Akhil Reddy Peeketi</div>
       <div class="speaker-affiliation">Los Alamos National Laboratory</div>
-      <div class="speaker-title">⭐ Rising Star — Fragment-Constrained Charge Equilibration Enables the Electrochemical Double Layer in MLIPs</div>
+      <div class="speaker-title">Fragment-Constrained Charge Equilibration Enables the Electrochemical Double Layer in MLIPs</div>
     </div>
     <span class="badge badge-government">Government</span>
   </div>
@@ -423,7 +423,7 @@ title: Speakers
     <div class="speaker-info">
       <div class="speaker-name">Henry Tischler</div>
       <div class="speaker-affiliation">Los Alamos National Laboratory</div>
-      <div class="speaker-title">⭐ Rising Star — Generating Molecules with Physics-Constrained Graph Diffusion</div>
+      <div class="speaker-title">Generating Molecules with Physics-Constrained Graph Diffusion</div>
     </div>
     <span class="badge badge-government">Government</span>
   </div>
