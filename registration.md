@@ -2,6 +2,11 @@
 title: Registration
 ---
 
+<div style="background-color: #fff3cd; border: 2px solid #ffc107; border-radius: 8px; padding: 18px; margin: 18px 0;">
+  <strong>⚠️ Approaching capacity</strong> — Registration remains open for <strong>invited speakers</strong>; please proceed below.<br>
+  <strong>Contributing a talk or poster?</strong> Please contact the organizers at <strong>mgt16@lanl.gov</strong> before registering to confirm availability — limited spots remaining.
+</div>
+
 ## Step 1: Register
 
 Complete the registration form to secure your spot at MLCM-26. The form collects your contact information, affiliation, and presentation preferences.
