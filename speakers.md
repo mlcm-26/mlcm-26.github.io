@@ -109,7 +109,7 @@ title: Speakers
 <div class="speaker-banner">
   <h3>Schedule in Progress</h3>
   <p>We are actively building the MLCM-26 program. More speakers will be announced soon!</p>
-  <p style="margin-top: 10px;"><span class="speaker-count">38</span><br>confirmed speakers so far</p>
+  <p style="margin-top: 10px;"><span class="speaker-count">43</span><br>confirmed speakers so far</p>
 </div>
 
 ## Confirmed Speakers
@@ -133,19 +133,27 @@ title: Speakers
   </div>
   <div class="speaker-row">
     <div class="speaker-info">
+      <div class="speaker-name">Sai Harshit Balantrapu</div>
+      <div class="speaker-affiliation">University at Buffalo - SUNY</div>
+      <div class="speaker-title">⭐ Rising Star — Neutron and X-ray Diffraction Reveal the Limits of Long-Range Machine Learning Potentials for Medium-Range Order in Silica</div>
+    </div>
+    <span class="badge badge-academy">Academy</span>
+  </div>
+  <div class="speaker-row">
+    <div class="speaker-info">
+      <div class="speaker-name">Erika Barcelos</div>
+      <div class="speaker-affiliation">Case Western Reserve University</div>
+      <div class="speaker-title">Semantic Data Management with MDS-Onto: Polymer Degradation and Formulation Science Studies</div>
+    </div>
+    <span class="badge badge-academy">Academy</span>
+  </div>
+  <div class="speaker-row">
+    <div class="speaker-info">
       <div class="speaker-name">Samuel Blau</div>
       <div class="speaker-affiliation">Lawrence Berkeley National Laboratory</div>
       <div class="speaker-title">TBD</div>
     </div>
     <span class="badge badge-government">Government</span>
-  </div>
-  <div class="speaker-row">
-    <div class="speaker-info">
-      <div class="speaker-name">Laura Bruckman</div>
-      <div class="speaker-affiliation">Case Western Reserve University</div>
-      <div class="speaker-title">TBD</div>
-    </div>
-    <span class="badge badge-academy">Academy</span>
   </div>
   <div class="speaker-row">
     <div class="speaker-info">
@@ -207,14 +215,6 @@ title: Speakers
     <div class="speaker-info">
       <div class="speaker-name">Johannes Hachmann</div>
       <div class="speaker-affiliation">University at Buffalo</div>
-      <div class="speaker-title">TBD</div>
-    </div>
-    <span class="badge badge-academy">Academy</span>
-  </div>
-  <div class="speaker-row">
-    <div class="speaker-info">
-      <div class="speaker-name">Jason Hattrick-Simpers</div>
-      <div class="speaker-affiliation">University of Toronto</div>
       <div class="speaker-title">TBD</div>
     </div>
     <span class="badge badge-academy">Academy</span>
@@ -325,8 +325,16 @@ title: Speakers
   </div>
   <div class="speaker-row">
     <div class="speaker-info">
-      <div class="speaker-name">Jose Mendoza</div>
-      <div class="speaker-affiliation">Michigan State University</div>
+      <div class="speaker-name">Orlando Mendible Barreto</div>
+      <div class="speaker-affiliation">University of Notre Dame</div>
+      <div class="speaker-title">⭐ Rising Star — MLIPs and Agentic AI as Enabling Tools for the Computational Study of Metal-Organic Framework Self-Assembly</div>
+    </div>
+    <span class="badge badge-academy">Academy</span>
+  </div>
+  <div class="speaker-row">
+    <div class="speaker-info">
+      <div class="speaker-name">Adesh Rohan Mishra</div>
+      <div class="speaker-affiliation">University of California, San Diego</div>
       <div class="speaker-title">TBD</div>
     </div>
     <span class="badge badge-academy">Academy</span>
@@ -354,6 +362,14 @@ title: Speakers
       <div class="speaker-title">TBD</div>
     </div>
     <span class="badge badge-academy">Academy</span>
+  </div>
+  <div class="speaker-row">
+    <div class="speaker-info">
+      <div class="speaker-name">Akhil Reddy Peeketi</div>
+      <div class="speaker-affiliation">Los Alamos National Laboratory</div>
+      <div class="speaker-title">⭐ Rising Star — Fragment-Constrained Charge Equilibration Enables the Electrochemical Double Layer in MLIPs</div>
+    </div>
+    <span class="badge badge-government">Government</span>
   </div>
   <div class="speaker-row">
     <div class="speaker-info">
@@ -405,11 +421,35 @@ title: Speakers
   </div>
   <div class="speaker-row">
     <div class="speaker-info">
+      <div class="speaker-name">Henry Tischler</div>
+      <div class="speaker-affiliation">Los Alamos National Laboratory</div>
+      <div class="speaker-title">⭐ Rising Star — Generating Molecules with Physics-Constrained Graph Diffusion</div>
+    </div>
+    <span class="badge badge-government">Government</span>
+  </div>
+  <div class="speaker-row">
+    <div class="speaker-info">
       <div class="speaker-name">Steven Torrisi</div>
       <div class="speaker-affiliation">Toyota Research Institute</div>
       <div class="speaker-title">TBD</div>
     </div>
     <span class="badge badge-industry">Industry</span>
+  </div>
+  <div class="speaker-row">
+    <div class="speaker-info">
+      <div class="speaker-name">Quỳnh Trần</div>
+      <div class="speaker-affiliation">Case Western Reserve University</div>
+      <div class="speaker-title">Data-Centric Approach in Molecular Machine Learning: Representation Learning on Massive Multi-Modal Datasets</div>
+    </div>
+    <span class="badge badge-academy">Academy</span>
+  </div>
+  <div class="speaker-row">
+    <div class="speaker-info">
+      <div class="speaker-name">Hao Wan</div>
+      <div class="speaker-affiliation">University of Toronto</div>
+      <div class="speaker-title">TBD</div>
+    </div>
+    <span class="badge badge-academy">Academy</span>
   </div>
   <div class="speaker-row">
     <div class="speaker-info">
